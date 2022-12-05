@@ -2,10 +2,10 @@
 
 ## Discription
 
-This is calculation of ndpfs influence in pi0, jpsi and D-meson prodcution in d+d collisions at NICA energies. 
+This is calculation of ndpfs influence on pi0, jpsi and D-meson prodcution in d+d collisions at NICA energies. 
 
 ## Structure
-We used jupyter notebook proceeded in [NICA_nPDF_dd](https://github.com/mcyoren/NICA/blob/main/NICA_nPDF/NICA_nPDF_dd.ipynb)
+We used jupyter notebook proceeded in [NICA_nPDF_dd.ipynb](https://github.com/mcyoren/NICA/blob/main/NICA_nPDF/NICA_nPDF_dd.ipynb)
 
 ---
 >Light is winnig!
